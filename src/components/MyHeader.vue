@@ -7,6 +7,7 @@
       elevation='5'
       elevate-on-scroll
     >
+    
     <v-toolbar-title>
       <img src="../assets/logo.svg" alt="logo" width="50%">
     </v-toolbar-title>
@@ -39,8 +40,8 @@
 
 <style>
   .v-list-item__title.navmenu {
-    color: white;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
+    color: white;
 }
 </style>
